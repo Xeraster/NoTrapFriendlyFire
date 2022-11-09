@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>No Trap Friendly Fire</name>
+  <author>Windows XP</author>
+  <supportedVersions>
+  	<li>1.4</li>
+  </supportedVersions>
+  <url></url>
+  <description>There is for some reason no trap friendly fire disabler mod anywhere on the workshop so I made one.</description>
+  <packageId>WindowsXP.NoTrapFriendlyFire</packageId>
+</ModMetaData>

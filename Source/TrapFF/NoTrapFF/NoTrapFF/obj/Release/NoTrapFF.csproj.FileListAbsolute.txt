@@ -1,0 +1,7 @@
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/SkimpyBikini/1.4/Assemblies/NoTrapFF.dll
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/SkimpyBikini/TrapFF/TrapFF/NoTrapFF/NoTrapFF/obj/Release/NoTrapFF.csprojAssemblyReference.cache
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/SkimpyBikini/TrapFF/TrapFF/NoTrapFF/NoTrapFF/obj/Release/NoTrapFF.csproj.CoreCompileInputs.cache
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/SkimpyBikini/TrapFF/TrapFF/NoTrapFF/NoTrapFF/obj/Release/NoTrapFF.dll
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/NoTrapFF/1.4/Assemblies/NoTrapFF.dll
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/NoTrapFF/Source/TrapFF/NoTrapFF/NoTrapFF/obj/Release/NoTrapFF.csproj.CoreCompileInputs.cache
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/NoTrapFF/Source/TrapFF/NoTrapFF/NoTrapFF/obj/Release/NoTrapFF.dll
