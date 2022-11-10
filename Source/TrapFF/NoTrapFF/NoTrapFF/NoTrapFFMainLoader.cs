@@ -88,7 +88,7 @@ namespace NoTrapFF
             listingStandard.CheckboxLabeled("enable trap friendly fire for slaves of same faction", ref settings.enableSlaveFF, "Enables or disables trap friendly fire when dealing with a slave of your own faction");
             listingStandard.GapLine(24);
             listingStandard.Label("the following settings only effect traps placed by the player");
-            listingStandard.CheckboxLabeled("trap all factionless pawns and animals", ref settings.trapsForAllAnimals, "Checking this makes it so that any time a pawn (including humanlikes and normal animals) that doesn't belong a faction touches a trap, the trap will activate regardless of if that pawn is in aggro or not");
+            listingStandard.CheckboxLabeled("trap all factionless pawns and animals", ref settings.trapsForAllAnimals, "Checking this makes it so that any time a pawn (including humanlikes and normal animals) that doesn't belong to a faction touches a trap, the trap will activate regardless of if that pawn is in aggro or not");
             listingStandard.CheckboxLabeled("trap all non-player faction pawns of any kind", ref settings.trapEverythingElse, "Checking this makes it so that any time ANYTHING that doesn't belong to the player faction touches one of the player's traps, it will activate");
             listingStandard.Label("No restart is required for changes to take effect.");
             //Widgets.EndScrollView();
